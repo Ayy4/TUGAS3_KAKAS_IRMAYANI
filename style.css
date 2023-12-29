@@ -9,10 +9,12 @@ body{
 
 #profile-container{
     max-width: 300px;
-    margin: 80px auto;
-    background-color: white;
     border: 1px solid gray;
+   
+    background-color: white;
+    
     border-radius: 6px;
+    margin: 80px auto;
 }
 
 #profile-image{
